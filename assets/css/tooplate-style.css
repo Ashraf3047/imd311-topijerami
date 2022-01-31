@@ -187,7 +187,7 @@ html {
 
 .menu .social-network ul li a:hover {
     background-color: #fff;
-    color: #2279BD;
+    color: darkred;
 }
 
 .menu .copyright-text {
